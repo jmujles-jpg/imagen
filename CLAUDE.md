@@ -16,8 +16,8 @@ Instagram: @beautyimagen
 
 ## Cómo trabajamos
 
-- **Hoy:** por orden de llegada.
-- **Desde el invierno:** con turnos, a través de una app propia que hicimos desde cero solo para imagen. La app ya está en uso.
+- **Hoy:** solo por orden de llegada.
+- **Desde el invierno:** las dos modalidades juntas. Se sigue atendiendo **por orden de llegada** y además se suman **turnos**. Los turnos se sacan con una app propia que hicimos desde cero solo para imagen; la app ya está en uso.
 
 ## Regla de tolerancia por llegada tarde (con turnos)
 
