@@ -16,8 +16,22 @@ Instagram: @beautyimagen
 
 ## Cómo trabajamos
 
-- **Hoy:** solo por orden de llegada.
-- **Desde el invierno:** las dos modalidades juntas. Se sigue atendiendo **por orden de llegada** y además se suman **turnos**. Los turnos se sacan con una app propia que hicimos desde cero solo para imagen; la app ya está en uso.
+- **Hace 25 años que trabajamos por orden de llegada, y nos va muy bien**, sobre todo en temporada. Esa es la base y no se cambia.
+- **Desde el invierno:** se suman **turnos** como complemento. Los turnos se sacan con una app propia que hicimos desde cero solo para imagen; la app ya está en uso.
+
+## Plan de turnos (en armado)
+
+**Objetivo:** llenar los huecos libres que aparecen en invierno. Los turnos no reemplazan la atención por orden de llegada: la complementan.
+
+- **Turnos solo en invierno y solo lunes, martes y miércoles**, que son los días más flojos. Fuera de invierno, todo sigue por orden de llegada.
+- **De jueves a sábado:** siempre por orden de llegada.
+- **Los servicios largos (soft gel, color, etc.) también se hacen por orden de llegada.** No hay servicios que sean solo con turno.
+- **Los días con turno se atiende igual a quien llega sin turno**, en los huecos libres, siempre que el servicio termine antes del próximo turno de esa profesional.
+- La clienta con turno se atiende a su hora; las que llegan sin turno, por orden de llegada en los huecos.
+- Idea a definir: horario de último ingreso para servicios largos sin turno (por ejemplo, soft gel hasta las 18:30).
+- Probar 3 o 4 semanas y ajustar.
+
+Falta saber: qué servicios hacen, cuánto dura cada uno y cuántas profesionales hay por local.
 
 ## Regla de tolerancia por llegada tarde (con turnos)
 
